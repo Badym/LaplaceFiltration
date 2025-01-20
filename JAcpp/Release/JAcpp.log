@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  fun.cpp
+     Trwa tworzenie biblioteki C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\Release\JAcpp.lib i obiektu C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\Release\JAcpp.exp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  JAcpp.vcxproj -> C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\Release\JAcpp.dll

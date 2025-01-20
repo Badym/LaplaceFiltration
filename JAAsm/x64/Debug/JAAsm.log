@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+  LINK : brak bazy danych programu C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\bin\Debug\JAAsm.pdb; zostanie wykonana pełna konsolidacja
+     Trwa tworzenie biblioteki C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\bin\Debug\JAAsm.lib i obiektu C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\bin\Debug\JAAsm.exp
+  JAAsm.vcxproj -> C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\bin\Debug\JAAsm.dll

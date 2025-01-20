@@ -1,0 +1,10 @@
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\bin\Debug\LapaceFiltration.exe.config
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\bin\Debug\LapaceFiltration.exe
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\bin\Debug\LapaceFiltration.pdb
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LaplaceFilter.csproj.AssemblyReference.cache
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LaplaceFilter.Form1.resources
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LapaceFiltration.Properties.Resources.resources
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LaplaceFilter.csproj.GenerateResource.cache
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LaplaceFilter.csproj.CoreCompileInputs.cache
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LapaceFiltration.exe
+C:\Users\badim\Desktop\lapaceFiltration\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LapaceFiltration.pdb
